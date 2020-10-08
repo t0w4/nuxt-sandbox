@@ -80,6 +80,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-television-classic',
+          title: '録画予約',
+          to: '/recordingReservation',
+        },
       ],
       miniVariant: false,
       right: true,
